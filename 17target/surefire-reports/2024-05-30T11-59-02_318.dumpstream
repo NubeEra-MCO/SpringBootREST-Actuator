@@ -1,0 +1,5 @@
+# Created at 2024-05-30T11:59:03.736
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Practices\Arc_AKS\gs-actuator-service-main\gs-actuator-service-main\complete\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
